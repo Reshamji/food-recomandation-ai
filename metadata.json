@@ -1,0 +1,6 @@
+{
+  "name": "PantryIQ - Food Recommendation AI",
+  "description": "Smart AI-powered recipe generator and meal planner that turns your available ingredients into delicious meals, reducing food waste with zero-stress cooking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
